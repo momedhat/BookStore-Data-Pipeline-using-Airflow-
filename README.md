@@ -17,5 +17,5 @@ The data is for a bookstore that pertains to books available online and provides
 * Save the data into CSV file.
 
 ## Result Snapshot 
-![dag](dag_snapshot.jpg)
+![dag](snapshot/dag_snapshot.jpg)
 
